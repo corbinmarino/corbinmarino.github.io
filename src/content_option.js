@@ -1,7 +1,7 @@
 const logotext = "C.M.";
 const meta = {
     title: "Corbin Marino",
-    description: "I'm Corbin, a cybersecurity professional and CSULB CS graduate.",
+    description: "I'm Corbin, a CSULB CS graduate and aspiring cyber.",
 };
 
 const introdata = {
@@ -15,7 +15,7 @@ const introdata = {
         sixth: "Analyst",
         // add more if you'd like but make sure to update /src/pages/home/index.js Line 29
     },
-    description: "Dedicated technology enthusiast with an insatiable curiosity for unraveling the complexities of our digital world.",
+    description: "CSULB Computer Science Graduate with an aspiration of becoming a cybersecurity professional.",
     your_img_url: "https://i.ibb.co/PhN8zCq/me.jpg",
 };
 
