@@ -24,11 +24,11 @@ const dataabout = {
     aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
 };
 const worktimeline = [{
-        jobtitle: "Example 1",
-        where: "Google",
-        date: "2023",
+        jobtitle: "Cybersecurity Intern",
+        where: "LAPD",
+        date: "Feb 2022 - Aug 2023",
     },
-    {
+    /*{
         jobtitle: "Example 2",
         where: "Micosoft",
         date: "2022",
@@ -37,7 +37,7 @@ const worktimeline = [{
         jobtitle: "Example 3",
         where: "Meta",
         date: "2021",
-    },
+    }, */
 ];
 
 const skills = [{
@@ -45,31 +45,31 @@ const skills = [{
     },
     
     {
-        name: "C",
+        name: "Threat Hunting",
     },
     
     {
-        name: "Java",
+        name: "Cyber Defense",
     },
     
     {
-        name: "Bash",
+        name: "Systems Administration",
     },
 
     {
-        name: "Powershell",
+        name: "Incident Handling",
     },
 
     {
-        name: "Reverse Engineering",
+        name: "Incident Response",
     },
 
     {
-        name: "Web-Exploitation",
+        name: "Reconnaissance",
     },
 
     {
-        name: "Network Exploitation",
+        name: "SOAR",
     },
 ];
 
