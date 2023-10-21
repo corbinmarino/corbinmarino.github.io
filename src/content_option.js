@@ -11,9 +11,9 @@ const introdata = {
         second: "GCIH Certified",
         third: "GSOC Certified",
         fourth: "GSEC Certified",
-        fifth: "Malware Developer",
-        sixth: "Analyst",
-        // add more if you'd like but make sure to update /src/pages/home/index.js Line 29
+        fifth: "Aspiring Security Professional",
+        //sixth: "",
+        // add more but make sure to update /src/pages/home/index.js Line 29
     },
     description: "CSULB Computer Science Graduate with an aspiration of becoming a cybersecurity professional.",
     your_img_url: "https://i.ibb.co/PhN8zCq/me.jpg",
@@ -21,7 +21,7 @@ const introdata = {
 
 const dataabout = {
     title: "Who am I?",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    aboutme: "Aspiring cybersecurity professional with a wide skillset in enterprise security operations, offensive security, and problem solving. Currently I am focused on learning more about malware development and ethical hacking to better understand how attackers operate.",
 };
 const worktimeline = [{
         jobtitle: "Cybersecurity Intern",
@@ -74,19 +74,19 @@ const skills = [{
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://images.credly.com/size/680x680/images/8e6bde54-8a33-4ec0-9d70-90fcde581bcf/image.png",
+        description: "GIAC Security Essentials Certification.",
+        link: "https://www.credly.com/badges/dc9c50c1-336a-4bc7-af2b-4914c5180bd9",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://images.credly.com/size/680x680/images/b8200bcb-258a-4089-b43d-fe23dfdc3097/image.png",
+        description: "GIAC Security Operations Certified.",
+        link: "https://www.credly.com/badges/c3143b59-e048-4a6b-9f8d-fcefcd55ec1b",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://images.credly.com/size/680x680/images/c3e2745b-2f30-4e6b-9290-f7557a705181/image.png",
+        description: "GIAC Certified Incident Handler.",
+        link: "https://www.credly.com/badges/b921ddcc-36bb-41eb-a921-7f1b633f1273",
     },
     {
         img: "https://picsum.photos/400/600/?grayscale",
@@ -104,36 +104,36 @@ const dataportfolio = [{
         link: "#",
     },
 
-    {
+    /*{
         img: "https://picsum.photos/400/600/?grayscale",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
-    },
-    {
+    }, */
+    /*{
         img: "https://picsum.photos/400/300/?grayscale",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
-    },
-    {
+    }, */
+    /*{
         img: "https://picsum.photos/400/?grayscale",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
-    },
-    {
+    }, */
+    /*{
         img: "https://picsum.photos/400/550/?grayscale",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
-    },
-    {
+    }, */
+    /*{
         img: "https://picsum.photos/400/?grayscale",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
-    },
-    {
+    }, */
+    /*{
         img: "https://picsum.photos/400/700/?grayscale",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
-    },
+    }, */
 ];
 
 const contactConfig = {
@@ -147,8 +147,8 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com/",
-    linkedin: "https://linkedin.com/",
+    github: "https://github.com/corbinmarino",
+    linkedin: "https://www.linkedin.com/in/corbin-marino-46b57a225/",
 };
 export {
     meta,
