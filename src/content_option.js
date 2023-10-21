@@ -16,7 +16,7 @@ const introdata = {
         // add more but make sure to update /src/pages/home/index.js Line 29
     },
     description: "CSULB Computer Science Graduate with an aspiration of becoming a cybersecurity professional.",
-    your_img_url: "https://i.ibb.co/PhN8zCq/me.jpg",
+    your_img_url: "https://i.ibb.co/wSmCF81/pixelcorb.png",
 };
 
 const dataabout = {
@@ -88,7 +88,7 @@ const dataportfolio = [{
         description: "GIAC Certified Incident Handler.",
         link: "https://www.credly.com/badges/b921ddcc-36bb-41eb-a921-7f1b633f1273",
     },
-    {
+    /*{
         img: "https://picsum.photos/400/600/?grayscale",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
@@ -103,7 +103,7 @@ const dataportfolio = [{
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
-
+    */
     /*{
         img: "https://picsum.photos/400/600/?grayscale",
         description: "The wisdom of life consists in the elimination of non-essentials.",
