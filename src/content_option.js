@@ -150,6 +150,15 @@ const socialprofils = {
     github: "https://github.com/corbinmarino",
     linkedin: "https://www.linkedin.com/in/corbin-marino-46b57a225/",
 };
+
+const educationInfo = [{
+    institution: "California State University Long Beach",
+    degree: "Computer Science B.S. Minor in Cybersecurity Applications",
+    years: "2019-2023"
+    },
+
+];
+
 export {
     meta,
     dataabout,
@@ -160,4 +169,5 @@ export {
     contactConfig,
     socialprofils,
     logotext,
+    educationInfo,
 };

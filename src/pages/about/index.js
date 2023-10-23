@@ -7,6 +7,7 @@ import {
   meta,
   worktimeline,
   skills,
+  educationInfo,
 } from "../../content_option";
 
 export const About = () => {
@@ -70,6 +71,20 @@ export const About = () => {
                 </div>
               );
             })}
+          </Col>
+        </Row>
+        <Row className="sec_sp">
+          <Col lg="5">
+            <h3 className="color_sec py-4">Education</h3>
+          </Col>
+          <Col lg="7">
+            <ul>
+              {educationInfo.map((data, i) => (
+                <li key={i}>
+                  <strong>{data.institution}</strong> - {data.degree} ({data.years})
+                </li>
+              ))}
+            </ul>
           </Col>
         </Row>
       </Container>
