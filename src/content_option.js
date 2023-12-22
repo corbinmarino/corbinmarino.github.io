@@ -88,11 +88,12 @@ const dataportfolio = [{
         description: "GIAC Certified Incident Handler.",
         link: "https://www.credly.com/badges/b921ddcc-36bb-41eb-a921-7f1b633f1273",
     },
-    /*{
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+    {
+        img: "https://camo.githubusercontent.com/b7a2a7d83c2b79f80821d11d7bed9f80e6f71dd47336aab3370bafa11ec4e9a1/68747470733a2f2f6c68372d75732e676f6f676c6575736572636f6e74656e742e636f6d2f6456657362655774335467495a41444832616c374764564e73372d474978576f33454479514c6b35726f356e6a386637504e424f6f4d4654516e4b497658367533715f38346a575a4267535042592d4f7553594c4b59443934757538344d656a472d6b4a47716570775264566f327435795f4965766c58744c6e435f2d717a6e4b326c744d6c4d3861566379326e6a3963755973665851",
+        description: "Cybersecurity Homelab",
+        link: "https://github.com/corbinmarino/HomeLab",
     },
+    /*
     {
         img: "https://picsum.photos/400/300/?grayscale",
         description: "The wisdom of life consists in the elimination of non-essentials.",
